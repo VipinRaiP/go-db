@@ -1,5 +1,7 @@
 # GoDB
 
+*This project is vibe coded using AI.*
+
 GoDB is a lightweight, ACID-compliant, disk-based relational database management system written purely in Go. This project is built as an educational exercise to demonstrate and explore the core underlying components of modern relational database engines.
 
 ## 🏗 Architecture & Features
